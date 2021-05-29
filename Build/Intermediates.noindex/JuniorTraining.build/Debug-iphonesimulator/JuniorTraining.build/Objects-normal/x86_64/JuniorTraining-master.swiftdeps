@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "eea8985d2a2e278e49ce5bb34e3ddd1c"
+build_time: [1622256168, 568467000]
+inputs:
+  "/Users/neolab/Documents/ NeoLab/Junior training/JuniorTraining/JuniorTraining/ViewController.swift": [1622256163, 170826730]
+  "/Users/neolab/Documents/ NeoLab/Junior training/JuniorTraining/JuniorTraining/AppDelegate.swift": [1622256163, 163916154]
+  "/Users/neolab/Documents/ NeoLab/Junior training/JuniorTraining/JuniorTraining/SceneDelegate.swift": [1622256163, 167506805]
